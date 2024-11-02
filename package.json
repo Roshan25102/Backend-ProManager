@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",  // Add this line to define the production start script
+    "start": "node server.js",  
     "dev": "nodemon server.js",
-    "vercel-build": "npm install && npm run build" // Optional: if you need a build step
+    "vercel-build": "npm install && npm run build" 
   },
   "author": "",
   "license": "ISC",
